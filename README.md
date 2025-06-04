@@ -1,10 +1,9 @@
-
 ## Employee Management System
 
-After dwonloading a repo you have to fire below command
+After downloading the repository, run the following commands:
 
-- composer install
-- php artisan migrate --seed
-- npm install
-- npm run dev
-- php artisan serve
+- `composer install`
+- `php artisan migrate --seed`
+- `npm install`
+- `npm run dev`
+- `php artisan serve`
